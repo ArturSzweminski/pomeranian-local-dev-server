@@ -2,11 +2,11 @@
   "name": "local-api-server",
   "version": "1.0.0",
   "description": "local-api-server",
-  "main": "src/app.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
